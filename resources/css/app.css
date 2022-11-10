@@ -1,0 +1,10 @@
+.li {
+    background-color: brown;
+}
+
+li:hover {
+    background-color: #14c38e!important;
+}
+.me-2:hover {
+    color: white !important;
+}
